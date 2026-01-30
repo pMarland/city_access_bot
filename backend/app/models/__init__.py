@@ -1,0 +1,3 @@
+from app.models.user import User
+from app.models.poi import Poi
+from app.models.media import Media
